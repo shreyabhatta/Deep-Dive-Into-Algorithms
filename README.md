@@ -4,22 +4,23 @@ Our aim is to learn some basic and advanced algorithms which are used in compute
 
 # Topics Covered
 
-Standard Template Library(STL) of C++
-Binary search
-Number theory
-Graph theory
-Greedy algorithms
-Backtracking
-Bit Manipulation
-Divide and Conquer
-Dynamic Programming
-Segment Tree (If time permits)
+1. Standard Template Library(STL) of C++
+2. Divide and Conquer
+3. Binary search
+4.. Number theory
+5. Graph theory
+6. Backtracking
+7. Bit Manipulation
+
 
 # Mentors
 
-Hardik Sharma 
+Hardik Sharma
+
 Ishit Darania 
+
 Ridhul Sambod 
+
 
 ACA, IIT Kanpur
 
