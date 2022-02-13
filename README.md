@@ -15,11 +15,9 @@ Our aim is to learn some basic and advanced algorithms which are used in compute
 
 # Mentors
 
-Hardik Sharma
-
-Ishit Darania 
-
-Ridhul Sambod 
+1. Hardik Sharma
+2. Ishit Darania 
+3. Ridhul Sambod 
 
 
 ACA, IIT Kanpur
