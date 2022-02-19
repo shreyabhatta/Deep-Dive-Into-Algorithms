@@ -7,7 +7,7 @@ Our aim is to learn some basic and advanced algorithms which are used in compute
 1. Standard Template Library(STL) of C++
 2. Divide and Conquer
 3. Binary search
-4.. Number theory
+4. Number theory
 5. Graph theory
 6. Backtracking
 7. Bit Manipulation
